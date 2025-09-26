@@ -1,0 +1,29 @@
+{
+  "metaTitle": "Fence Rental Services in [location]| About Us",
+  "metaDescription": "Trusted fence rental experts serving [location], providing quality fences, skilled crews, and community-focused service. Call us today [phone]",
+  "bannerQuote": "",
+  "bannerImage": "https://ik.imagekit.io/z6skgnupx/azfencepros_com/Fence_Rental_Services_about_bannerImage_VxYmPzdqZ.jpg",
+  "h1Banner": "Fence Rental Services in [location]| About Us",
+  "p1Banner": "Trusted fence rental experts serving [location], providing quality fences, skilled crews, and community-focused service. Call us today [phone]",
+  "p2": "Founded by local contractors with a focus on practical solutions, we built our fence rental business to serve homeowners, event planners, and construction teams with dependable temporary and permanent fencing. Our mission is simple: provide durable, code-compliant fences installed by experienced crews who respect your schedule and property. From emergency site containment to weekend event barriers, we combine hands-on workmanship with transparent pricing and a commitment to fast response and courteous service in [location].",
+  "h2Image": "https://ik.imagekit.io/z6skgnupx/azfencepros_com/Fence_Rental_Services_about_h2Image_O2BoP41fA.jpg",
+  "missionSection": [
+    {
+      "title": "Our Mission",
+      "description": "To provide reliable, safe, and professionally installed fence rental solutions that protect jobsites, secure events, and give homeowners peace of mind—delivered with integrity and clear communication."
+    },
+    {
+      "title": "Our Vision",
+      "description": "To be the go-to fence rental partner in our communities by combining skilled installation crews, well-maintained equipment, and responsive service so every project runs smoothly from delivery to pickup."
+    },
+    {
+      "title": "Our Team",
+      "description": "Our crew brings decades of combined experience in fencing, site safety, and event logistics. From licensed installers to customer service professionals, we work as a single team to solve unique site challenges and deliver consistently professional results."
+    }
+  ],
+  "areaweserveSection": {
+    "description": "We proudly provide fence rental services in [location], delivering and installing temporary and permanent fencing for construction sites, events, landscaping projects, and residential needs.",
+    "linkText": "Check our Fence Rental service locations here.",
+    "link": "/locations"
+  }
+}
